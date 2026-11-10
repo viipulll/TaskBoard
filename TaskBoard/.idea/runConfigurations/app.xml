@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <module name="TaskBoard.app" />
+    <option name="DEPLOY" value="true" />
+    <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+    <option name="DEPLOY_AS_INSTANT" value="false" />
+    <option name="ARTIFACT_NAME" value="" />
+    <option name="PM_INSTALL_OPTIONS" value="" />
+    <option name="ALL_USERS" value="false" />
+    <option name="START_UP_PROFILING_ENABLED" value="false" />
+    <option name="START_UP_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+    <option name="MODE" value="default_act" />
+    <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+    <option name="WORKING_DIRECTORY" value="" />
+    <option name="MODULE_NAME" value="TaskBoard.app" />
+  </configuration>
+</component>

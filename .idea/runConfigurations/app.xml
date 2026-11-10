@@ -1,0 +1,66 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <module name="TaskBoard.app" />
+    <option name="DEPLOY" value="true" />
+    <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+    <option name="DEPLOY_AS_INSTANT" value="false" />
+    <option name="ARTIFACT_NAME" value="" />
+    <option name="PM_INSTALL_OPTIONS" value="" />
+    <option name="ALL_USERS" value="false" />
+    <option name="START_UP_PROFILING_ENABLED" value="false" />
+    <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+    <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+    <option name="STARTUP_CPU_PROFILING_MENUS_SHOW_SAVE_AS_DIALOG" value="true" />
+    <option name="PROFILING_MODE" value="NOT_SET" />
+    <option name="SELECTED_RUN_CONFIGURATION_SETTINGS" type="ID" value="DEFAULT" />
+    <option name="SELECTED_CLOUD_PROJECT_CONFIGURATION_SETTINGS" type="ID" value="DEFAULT" />
+    <option name="AUTO_SELECT_PERSISTENT_DEVICE" value="false" />
+    <option name="KEEP_ASSUMED_DEVICES_ENABLED" value="false" />
+    <option name="CLIENT_BEARER_TOKEN" value="false" />
+    <option name="CLEAR_APP_STORAGE" value="false" />
+    <option name="DYNAMIC_FEATURES_DISABLED_FLAGS" value="false" />
+    <option name="ACTIVITY_CLASS" value="" />
+    <option name="MODE" value="default_act" />
+    <option name="CLEAR_LOGCAT" value="false" />
+    <option name="SHOW_LOGCAT_MESSAGE_IN_LOGVIEW" value="false" />
+    <option name="IS_DO_NOT_REUSE_COMPILATION" value="false" />
+    <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+    <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+    <option name="CLOUD_MATRIX_PROJECT_ID" value="" />
+    <option name="CLOUD_MATRIX_CHOOSER_ENGINES" value="" />
+    <option name="CLOUD_MATRIX_CHOOSER_STRICT_SETTINGS" value="false" />
+    <option name="CLOUD_MATRIX_DEFAULT_RUN_CONFIGURATION" value="true" />
+    <option name="DEVICES" value="Map" />
+    <option name="WOODSTOCK_DEV_NAME" value="" />
+    <option name="CLEAR_APP_STORAGE" value="false" />
+    <option name="DYNAMIC_FEATURES_DISABLED_FLAGS" value="false" />
+    <option name="ACTIVITY_CLASS" value="" />
+    <option name="MODE" value="default_act" />
+    <option name="CLEAR_LOGCAT" value="false" />
+    <option name="SHOW_LOGCAT_MESSAGE_IN_LOGVIEW" value="false" />
+    <option name="IS_DO_NOT_REUSE_COMPILATION" value="false" />
+    <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+    <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+    <option name="CLOUD_MATRIX_PROJECT_ID" value="" />
+    <option name="CLOUD_MATRIX_CHOOSER_ENGINES" value="" />
+    <option name="CLOUD_MATRIX_CHOOSER_STRICT_SETTINGS" value="false" />
+    <option name="CLOUD_MATRIX_DEFAULT_RUN_CONFIGURATION" value="true" />
+    <option name="DEVICES" value="Map" />
+    <option name="WOODSTOCK_DEV_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_NAME" value="" />
+    <option name="GEN_RES_RUNNING_CONFIGURATION_SCENARIO_STAGENAME" value="1px`" />
+    <option name="TEST_SEARCH_SCOPE">
+      <option name="PRO_RUN_CONFIGURATION_STORAGE_PROJECT_NAME" value="" />
+      <option name="TEST_NAME" value="app" />
+    </option>
+    <option name="TEST_RUN_CONFIGURATION_MODE" value="DEFAULT">
+      <option name="TEST_RUN_CONFIGURATION_MODE" value="DEFAULT" />
+    </option>
+    <option name="WORKING_DIRECTORY" value="" />
+    <option name="USE_CUSTOM_THUNK_FILE" value="false" />
+    <option name="MODULE_NAME" value="TaskBoard.app" />
+    <option name="SELECTED_KEY_STATUS" value="DEFAULT" />
+    <option name="KEY_VERSION" value="0.1n_speed`" />
+  </configuration>
+</component>

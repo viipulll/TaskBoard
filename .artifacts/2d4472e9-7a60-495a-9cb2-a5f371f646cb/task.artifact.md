@@ -1,0 +1,9 @@
+- `[x]` Set up project package structure (`com.krish.realtimetaskboard`) and Gradle Kotlin DSL with ViewBinding & Material 3.
+- `[x]` Implement data models (`Task`, `User`, `ActivityItem`), sample data source, and repository.
+- `[x]` Implement authentication screens (Splash, Login, Register) with XML layouts and ViewBinding.
+- `[x]` Implement main container and bottom navigation (`MainActivity`, `activity_main.xml`).
+- `[x]` Implement Dashboard fragment & adapter (`fragment_dashboard.xml`, `DashboardFragment`, `TaskAdapter`).
+- `[x]` Implement Kanban Board fragment & columns (`fragment_board.xml`, `BoardFragment`, `KanbanAdapter`).
+- `[x]` Implement Activity history fragment (`fragment_activity.xml`, `ActivityFragment`, `ActivityAdapter`).
+- `[x]` Implement User Profile fragment (`fragment_profile.xml`, `ProfileFragment`).
+- `[x]` Implement Create Task form bottom sheet (`dialog_create_task.xml`, `CreateTaskBottomSheet`).
